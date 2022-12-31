@@ -11,7 +11,6 @@ const personal = {
     },
     ageCalc: function(birthYear){
         const date = new Date();
-        date.getFullYear();
         let nowYear = date.getFullYear();
         console.log(nowYear - birthYear);
     }

@@ -3,7 +3,7 @@ const personal = {
     surname: "Yüce",
     job: "Frontend Developer",
     age: 26,
-    skills: ["HTML5","CSS3","SASS","LESS","TailwindCSS","Bootstrap","Javascrip","React","JQuery"],
+    skills: ["HTML5","CSS3","SASS","LESS","TailwindCSS","Bootstrap","Javascript","React","JQuery"],
     address: {
         country: "Türkiye",
         city: "İstanbul",

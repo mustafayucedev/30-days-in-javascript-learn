@@ -45,7 +45,7 @@ sayHello("Mustafa"); // Merhaba Mustafa
 
 // (() => {
 //     console.log("Merhaba " + name);
-// })();
+// })("Mustafa"); // Merhaba Mustafa
 
 
 // Example - Function in Object
